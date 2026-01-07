@@ -1,0 +1,479 @@
+[[HelloWorldMPIC]]
+arch = "aarch64"
+git-tree-sha1 = "8208a5689ab985e5caa6db51c192cdb0bd9bfffa"
+lazy = true
+mpi = "mpich"
+os = "macos"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "19c48d644dbce3c8052df1b0640b517fa52e4f545ead7d6b6c836bcb35e71c05"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.aarch64-apple-darwin-mpi+mpich.tar.gz"
+[[HelloWorldMPIC]]
+arch = "aarch64"
+git-tree-sha1 = "0c055ecf37928263a21226d975b2b758bb74414b"
+lazy = true
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "76be00a1c531e7a8344ac463b0be5abd4d0984a39b27590cf0d812af7655b5ad"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.aarch64-apple-darwin-mpi+mpitrampoline.tar.gz"
+[[HelloWorldMPIC]]
+arch = "aarch64"
+git-tree-sha1 = "a213e51392aaa3928e6ed2af4f2d76133233e18e"
+lazy = true
+mpi = "openmpi"
+os = "macos"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "3ab22362021a548ca9e06b25f97d5160edf886e03a3c8f579c743f6bef2575c4"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.aarch64-apple-darwin-mpi+openmpi.tar.gz"
+[[HelloWorldMPIC]]
+arch = "aarch64"
+git-tree-sha1 = "b5e53495cb054f227d31720de12c4724b668d5f8"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "e63045377f4d4b63c450c5130b1743f22fd5750daa3a43f032cc2c026bb7f975"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.aarch64-linux-gnu-mpi+mpich.tar.gz"
+[[HelloWorldMPIC]]
+arch = "aarch64"
+git-tree-sha1 = "10d33c0306f9951d1341541bca679a80c8b329b5"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "b395f20f638eeb39c9dc0c22a97bea30211dc62dcf35dd0a79095852ba60c6e4"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.aarch64-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[HelloWorldMPIC]]
+arch = "aarch64"
+git-tree-sha1 = "c94adb1c39fae357cb8d52181a9775f2af345fac"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "87fa15198afcb82c733d520a07d39618d4c232cd213be20cd258337e79bdd586"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.aarch64-linux-gnu-mpi+openmpi.tar.gz"
+[[HelloWorldMPIC]]
+arch = "aarch64"
+git-tree-sha1 = "efd28c88d239d94957be0a80d9ee4b1e44c526fb"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "b766e69e38f667ee3a74995a3dfc5442644a1f315d80e100ea680c6bf6b7316a"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.aarch64-linux-musl-mpi+mpich.tar.gz"
+[[HelloWorldMPIC]]
+arch = "aarch64"
+git-tree-sha1 = "95ea2c8ace133f87b2c06e0bbbc995e136968d35"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "8f0b856c8afe52d60905726200263210d6dbe4311f17e97a1168e506c575745f"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.aarch64-linux-musl-mpi+openmpi.tar.gz"
+[[HelloWorldMPIC]]
+arch = "aarch64"
+git-tree-sha1 = "f852a0fa75e9c2028956edda2a4e27da5504e98f"
+lazy = true
+mpi = "mpich"
+os = "freebsd"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "8d723bca3aeb40b29e20059b1971a0222b5339c5813870d0e3290651e1c79baf"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.aarch64-unknown-freebsd-mpi+mpich.tar.gz"
+[[HelloWorldMPIC]]
+arch = "aarch64"
+git-tree-sha1 = "33fabf52fce6b1a5f905ea574257c123f978ad90"
+lazy = true
+mpi = "mpitrampoline"
+os = "freebsd"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "34a4c0c223e920a51cd87020d38bf00ecb5522038d6942e6c285068b9e5627bf"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.aarch64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+[[HelloWorldMPIC]]
+arch = "aarch64"
+git-tree-sha1 = "25a2c7760191c882d28ee38e707e238ea85bbf28"
+lazy = true
+mpi = "openmpi"
+os = "freebsd"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "7bc044bac2156a647af24c8bda47ba822125aeb02739d118cd6f1a600d8d5f39"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.aarch64-unknown-freebsd-mpi+openmpi.tar.gz"
+[[HelloWorldMPIC]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "acb3d85b1433a0691e0404984907c5cd2a4e559d"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "6693c7b01261388a95665dd822b4ce69c49259da833c737f499f248bb393f9bd"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.armv6l-linux-gnueabihf-mpi+mpich.tar.gz"
+[[HelloWorldMPIC]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "622254af45749a903b161aed3e88284bbd834fe3"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "f0625a4607d5aa3dffecb492ee82224a517b58221b2cee27560381d871cf2a0d"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.armv6l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
+[[HelloWorldMPIC]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "334736579513df374121c2a64b17145648631153"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "95ea92a36a2c1f3cbddf98cf2a492a272eb8a6722671a857330d3cb9545f7864"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.armv6l-linux-musleabihf-mpi+mpich.tar.gz"
+[[HelloWorldMPIC]]
+arch = "armv6l"
+call_abi = "eabihf"
+git-tree-sha1 = "10aaf585452cc7979208441005eebffd1cce0ede"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "1a6bbaaadcd1bc54062e4dcbc04bc35d805e72dabf024b31f0869d2de0cf99a1"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.armv6l-linux-musleabihf-mpi+openmpi.tar.gz"
+[[HelloWorldMPIC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "3a42888a9f5f8032d4a9cd38f2162affa3e3e8b2"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "55739d37d6d32604d30c039a779c4a89f7c5a6c77b2c9c5d4748a8ae93bbfa82"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.armv7l-linux-gnueabihf-mpi+mpich.tar.gz"
+[[HelloWorldMPIC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "5186f7b39e1b3e898d9576472e46e6de888138ea"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "3ff511c5942f8b496fb489a7ecf1eead77b1494ecd6b407d29cb3e3bc4f3c5d7"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.armv7l-linux-gnueabihf-mpi+mpitrampoline.tar.gz"
+[[HelloWorldMPIC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "70454e3b7eec2451e877e1dacfc7eed780111aa4"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "33a103174e92d80b24b8b4f041d6984b901146d060c006fc70b46df52abdc87e"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.armv7l-linux-gnueabihf-mpi+openmpi.tar.gz"
+[[HelloWorldMPIC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "d41d9d04e45b4cbe92f2a5a6f1c7b419e5f2b8a1"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "8dd4c991b0d9e8cba7f4f3dd24687800799bc8648b4040e2001228b854403eb4"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.armv7l-linux-musleabihf-mpi+mpich.tar.gz"
+[[HelloWorldMPIC]]
+arch = "armv7l"
+call_abi = "eabihf"
+git-tree-sha1 = "110bffb2dd7d6f2b24bb4dba45629fb5b1c223cb"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "7cd76a0276c4de16f1ece8978ba4c34b65fd42a9b09a6e1d04240321cfe8ea1e"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.armv7l-linux-musleabihf-mpi+openmpi.tar.gz"
+[[HelloWorldMPIC]]
+arch = "i686"
+git-tree-sha1 = "e7933630566d6a22e6459946fff6223cf28b7c22"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "ebf689e21b6e5fe54aeabb479b479a497961b35804b5f04ce7523489bf16e5cc"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.i686-linux-gnu-mpi+mpich.tar.gz"
+[[HelloWorldMPIC]]
+arch = "i686"
+git-tree-sha1 = "5e095ae7bec3bd8d1f7b90b439adfea0f076bb53"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "8d26b1b0fe6fbf55760bb30d0d41bbb86c6fc39d4a7e0ed204f4c6e447aeae82"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.i686-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[HelloWorldMPIC]]
+arch = "i686"
+git-tree-sha1 = "b950858bfdd0314c3a30e04aff2280af3e391251"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "155f6913b9f0e1cb001c5c7ba9a0e05ad23d22be31b209a44f40e5ee23136397"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.i686-linux-gnu-mpi+openmpi.tar.gz"
+[[HelloWorldMPIC]]
+arch = "i686"
+git-tree-sha1 = "6bb8a8bfa6fa9acc425acab6aaa56bb8918839fe"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "383f7a263c67347df95550f13a47573078b3a101fcee0e1d7a2c22356242f130"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.i686-linux-musl-mpi+mpich.tar.gz"
+[[HelloWorldMPIC]]
+arch = "i686"
+git-tree-sha1 = "ce0c7432f7e9340736eace7a57962bf9bdb14959"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "55e1fd37528251b9c14938ca125ed9506fe6901c644a69c55001b776a2950b7c"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.i686-linux-musl-mpi+openmpi.tar.gz"
+[[HelloWorldMPIC]]
+arch = "i686"
+git-tree-sha1 = "0d508ae2df121f176bd5ff54b292723b8e8f0f11"
+lazy = true
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "389fa0b9d44139c98f39676fc57d4dfd4e17a01fb03d2622836e94147c804465"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.i686-w64-mingw32-mpi+microsoftmpi.tar.gz"
+[[HelloWorldMPIC]]
+arch = "powerpc64le"
+git-tree-sha1 = "2f7737b12dc585e95ef5146aa64c8081bbc4176e"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "7d153be9efb215ddc3ee74321779fef3d26272b6206f1973e6417abefc87c6de"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.powerpc64le-linux-gnu-mpi+mpich.tar.gz"
+[[HelloWorldMPIC]]
+arch = "powerpc64le"
+git-tree-sha1 = "0ccc3f56ce536d0613dbcddcafdd30e8beee13c6"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "ccb1d6da50262e6ac1bdc7c244a489fdae5725e8c12a68426846c7e678763c4c"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.powerpc64le-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[HelloWorldMPIC]]
+arch = "powerpc64le"
+git-tree-sha1 = "0a516f6d21c68d283e97a77e0ad5e7c3c3e78a5f"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "37df159cb31d5802edbd0c598a43e2107f5f8140507b5526ee137b9a2d6252eb"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.powerpc64le-linux-gnu-mpi+openmpi.tar.gz"
+[[HelloWorldMPIC]]
+arch = "riscv64"
+git-tree-sha1 = "385b1ade66d77ba719fb2f08b171337e08ef56e5"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "98cb98aff3e2b675a42915238373c99a6442b24ed91fd6d3ef400b58424a148d"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.riscv64-linux-gnu-mpi+mpich.tar.gz"
+[[HelloWorldMPIC]]
+arch = "riscv64"
+git-tree-sha1 = "5390eaf6f7c3b71244242f0e1f7a52f36145e8fa"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "9c55378003e0edef7a53cc2d3032750d4f638a5ee385e71026bad38734b189a9"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.riscv64-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[HelloWorldMPIC]]
+arch = "riscv64"
+git-tree-sha1 = "6040ace0808c91707a0b13c70c2244366bad7eed"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "a35cd49d86afc27f441a35ad55f8f5ceceb0f0ab5f760641c01e662c1e6c9120"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.riscv64-linux-gnu-mpi+openmpi.tar.gz"
+[[HelloWorldMPIC]]
+arch = "x86_64"
+git-tree-sha1 = "5f24c665dc185ce91c887959c6732e5c336d5352"
+lazy = true
+mpi = "mpich"
+os = "macos"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "a1b74e15bf7bd9af617e6d81b4513519f0dbfd71319e26c908ccb5b3d13f7c14"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.x86_64-apple-darwin-mpi+mpich.tar.gz"
+[[HelloWorldMPIC]]
+arch = "x86_64"
+git-tree-sha1 = "09cf0cbaffcbd7ce26ac4722cb61559f6cc32bd3"
+lazy = true
+mpi = "mpitrampoline"
+os = "macos"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "3de9a5aa078131a104d851d2a09f0cb7383503dfd2cf911dd193903b4423dd74"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.x86_64-apple-darwin-mpi+mpitrampoline.tar.gz"
+[[HelloWorldMPIC]]
+arch = "x86_64"
+git-tree-sha1 = "8573a0b75ab701261e42f20730c79fed0824438c"
+lazy = true
+mpi = "openmpi"
+os = "macos"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "d372b9fd1fed49b490a36fcdd6340fc0920adc21e294638db37c4a264941c47f"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.x86_64-apple-darwin-mpi+openmpi.tar.gz"
+[[HelloWorldMPIC]]
+arch = "x86_64"
+git-tree-sha1 = "1bbedd1a9fcb3ed3d7558ec5e141b244fb1257c0"
+lazy = true
+libc = "glibc"
+mpi = "mpich"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "4d0ecfb71745ef0d453038cab3f15dd14c286cd4f06ad984b53dbe94dbc15bfa"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.x86_64-linux-gnu-mpi+mpich.tar.gz"
+[[HelloWorldMPIC]]
+arch = "x86_64"
+git-tree-sha1 = "7c9235e59dfa3381ddd04bf6fb3c43d0421a2d13"
+lazy = true
+libc = "glibc"
+mpi = "mpitrampoline"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "dbba7a86aa24467c75ae7d84bb3067d84c97688a5b54c327f8417de374f8a64d"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.x86_64-linux-gnu-mpi+mpitrampoline.tar.gz"
+[[HelloWorldMPIC]]
+arch = "x86_64"
+git-tree-sha1 = "a01aef2ea484014193b1f9d41558e64ebb3819ec"
+lazy = true
+libc = "glibc"
+mpi = "openmpi"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "63d3a16a648b54bcc4ae1bddb4b500b3d7dc2f68a190b1da13abd2bbc5de5c24"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.x86_64-linux-gnu-mpi+openmpi.tar.gz"
+[[HelloWorldMPIC]]
+arch = "x86_64"
+git-tree-sha1 = "4d9c3db9a66214a297861e5a251274286400b7ed"
+lazy = true
+libc = "musl"
+mpi = "mpich"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "4d82ddc5004eba343055780531237812318240f6251b8f3d3f446ce22befe30c"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.x86_64-linux-musl-mpi+mpich.tar.gz"
+[[HelloWorldMPIC]]
+arch = "x86_64"
+git-tree-sha1 = "c15b5042730911cef780385bf47bea6ea5c0a42a"
+lazy = true
+libc = "musl"
+mpi = "openmpi"
+os = "linux"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "c2c4099e5df9309a416b3929467b78e97444a79c7afdd6b4b87efd5ee387a927"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.x86_64-linux-musl-mpi+openmpi.tar.gz"
+[[HelloWorldMPIC]]
+arch = "x86_64"
+git-tree-sha1 = "f8b9d847983e786bb2e2411ce7ad4ec9e3ee4e5a"
+lazy = true
+mpi = "mpich"
+os = "freebsd"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "edbf8994466ad54628a184232eac4d9ef36c9fb3da9883a96202d35981db3e2a"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.x86_64-unknown-freebsd-mpi+mpich.tar.gz"
+[[HelloWorldMPIC]]
+arch = "x86_64"
+git-tree-sha1 = "cf209fd3b15e5bb5a4a16085aa6c56e8454467ad"
+lazy = true
+mpi = "mpitrampoline"
+os = "freebsd"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "b518132a444cfeac0a8124e6d999a04ea22c707fd5e4cfdff55dae468c63133b"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.x86_64-unknown-freebsd-mpi+mpitrampoline.tar.gz"
+[[HelloWorldMPIC]]
+arch = "x86_64"
+git-tree-sha1 = "5f54a30f899f0c11a8417dbe5fbf28f0847f7c63"
+lazy = true
+mpi = "openmpi"
+os = "freebsd"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "091456839c7e32969e234dc0a708658a93eafc3892d8168a9e5fb98b99ed3229"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.x86_64-unknown-freebsd-mpi+openmpi.tar.gz"
+[[HelloWorldMPIC]]
+arch = "x86_64"
+git-tree-sha1 = "20f17ad221be049db3aaf1cd34758cf6cc0eb1ec"
+lazy = true
+mpi = "microsoftmpi"
+os = "windows"
+
+    [[HelloWorldMPIC.download]]
+    sha256 = "5aa131ef0c28cf611be4d964fab70048123c153b0a87880b683ca0f43b04cee1"
+    url = "https://github.com/JuliaBinaryWrappers/HelloWorldMPIC_jll.jl/releases/download/HelloWorldMPIC-v1.0.0+0/HelloWorldMPIC.v1.0.0.x86_64-w64-mingw32-mpi+microsoftmpi.tar.gz"
