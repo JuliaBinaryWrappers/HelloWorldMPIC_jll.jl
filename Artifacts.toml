@@ -1,7 +1,6 @@
 [[HelloWorldMPIC]]
 arch = "aarch64"
 git-tree-sha1 = "74495a874ff7955cf1e1c84e760679bed62ee17e"
-lazy = true
 mpi = "mpiabi"
 os = "macos"
 
@@ -11,7 +10,6 @@ os = "macos"
 [[HelloWorldMPIC]]
 arch = "aarch64"
 git-tree-sha1 = "857a93248fac0a70935de38ae203817cd53fb976"
-lazy = true
 mpi = "mpich"
 os = "macos"
 
@@ -21,7 +19,6 @@ os = "macos"
 [[HelloWorldMPIC]]
 arch = "aarch64"
 git-tree-sha1 = "35b0b8f73c35834603ab83ad079b36963ce3eebe"
-lazy = true
 mpi = "mpitrampoline"
 os = "macos"
 
@@ -31,7 +28,6 @@ os = "macos"
 [[HelloWorldMPIC]]
 arch = "aarch64"
 git-tree-sha1 = "cf64c96d1b7cf38849ee20493737a3186f53e921"
-lazy = true
 mpi = "openmpi"
 os = "macos"
 
@@ -41,7 +37,6 @@ os = "macos"
 [[HelloWorldMPIC]]
 arch = "aarch64"
 git-tree-sha1 = "7f952706104337db41fd748da27f71d80c0eb135"
-lazy = true
 libc = "glibc"
 mpi = "mpiabi"
 os = "linux"
@@ -52,7 +47,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "aarch64"
 git-tree-sha1 = "123b3ec62883fc06d0480ef803ecb547bea312d8"
-lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
@@ -63,7 +57,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "aarch64"
 git-tree-sha1 = "9742aa65a591b5eb0977a5a07d1b073de209d17c"
-lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
@@ -74,7 +67,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "aarch64"
 git-tree-sha1 = "0d1eed7a10d24e80be8c49f82ec48a6bbb942e8d"
-lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
@@ -85,7 +77,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "aarch64"
 git-tree-sha1 = "cb619003ec36a992abc71c366137a10b03137770"
-lazy = true
 libc = "musl"
 mpi = "mpiabi"
 os = "linux"
@@ -96,7 +87,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "aarch64"
 git-tree-sha1 = "6bd0e1c477e4de15f4234bba084c3d7ece950b32"
-lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
@@ -107,7 +97,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "aarch64"
 git-tree-sha1 = "1ddbf586bf0669ec5b2aae97f86876cdec0a0501"
-lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
@@ -118,7 +107,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "aarch64"
 git-tree-sha1 = "e2876037735adec1de78086514577a1eb2c72327"
-lazy = true
 mpi = "mpiabi"
 os = "freebsd"
 
@@ -128,7 +116,6 @@ os = "freebsd"
 [[HelloWorldMPIC]]
 arch = "aarch64"
 git-tree-sha1 = "fc3069336024089d94de9717c99690ab3b72eae8"
-lazy = true
 mpi = "mpich"
 os = "freebsd"
 
@@ -138,7 +125,6 @@ os = "freebsd"
 [[HelloWorldMPIC]]
 arch = "aarch64"
 git-tree-sha1 = "56d186f3c1eeed6c8d67c371c2367a032feccbf8"
-lazy = true
 mpi = "mpitrampoline"
 os = "freebsd"
 
@@ -148,7 +134,6 @@ os = "freebsd"
 [[HelloWorldMPIC]]
 arch = "aarch64"
 git-tree-sha1 = "2566a373fc1193fbcb7880e3f520ab0580017df1"
-lazy = true
 mpi = "openmpi"
 os = "freebsd"
 
@@ -159,7 +144,6 @@ os = "freebsd"
 arch = "armv6l"
 call_abi = "eabihf"
 git-tree-sha1 = "31967d3a78c0bbf3828495548d717281a3a87d9f"
-lazy = true
 libc = "glibc"
 mpi = "mpiabi"
 os = "linux"
@@ -171,7 +155,6 @@ os = "linux"
 arch = "armv6l"
 call_abi = "eabihf"
 git-tree-sha1 = "6c06224f0c8b366532fd5aa2693a973625eb9876"
-lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
@@ -183,7 +166,6 @@ os = "linux"
 arch = "armv6l"
 call_abi = "eabihf"
 git-tree-sha1 = "11552d4f51fe27e403f1857afb24eeb6fcf9c66d"
-lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
@@ -195,7 +177,6 @@ os = "linux"
 arch = "armv6l"
 call_abi = "eabihf"
 git-tree-sha1 = "9f6fb5821d8c1cc8dd922adb8e4e319fc5bff457"
-lazy = true
 libc = "musl"
 mpi = "mpiabi"
 os = "linux"
@@ -207,7 +188,6 @@ os = "linux"
 arch = "armv6l"
 call_abi = "eabihf"
 git-tree-sha1 = "1dd685dcc58f5fd0662e79c9df7a34299470044c"
-lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
@@ -219,7 +199,6 @@ os = "linux"
 arch = "armv6l"
 call_abi = "eabihf"
 git-tree-sha1 = "429d4919dafa07d6d792082d0d929f320b9ef131"
-lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
@@ -231,7 +210,6 @@ os = "linux"
 arch = "armv7l"
 call_abi = "eabihf"
 git-tree-sha1 = "680416ae51d093df860f080317b1f5abaf368d0f"
-lazy = true
 libc = "glibc"
 mpi = "mpiabi"
 os = "linux"
@@ -243,7 +221,6 @@ os = "linux"
 arch = "armv7l"
 call_abi = "eabihf"
 git-tree-sha1 = "7f4996ae30ba4b6aae863fd0e179ce9cfe45f12e"
-lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
@@ -255,7 +232,6 @@ os = "linux"
 arch = "armv7l"
 call_abi = "eabihf"
 git-tree-sha1 = "85d04aaaff8820670e9f82bf33b2430aa9a6677a"
-lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
@@ -267,7 +243,6 @@ os = "linux"
 arch = "armv7l"
 call_abi = "eabihf"
 git-tree-sha1 = "66dfb6dc8b8d2b1696313a11151e23a90fa521b8"
-lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
@@ -279,7 +254,6 @@ os = "linux"
 arch = "armv7l"
 call_abi = "eabihf"
 git-tree-sha1 = "975465602673bc2a27a732c4384bc8571208e614"
-lazy = true
 libc = "musl"
 mpi = "mpiabi"
 os = "linux"
@@ -291,7 +265,6 @@ os = "linux"
 arch = "armv7l"
 call_abi = "eabihf"
 git-tree-sha1 = "0a336bd0d3505c0e0b1ebc2fe5f39f3521e5a103"
-lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
@@ -303,7 +276,6 @@ os = "linux"
 arch = "armv7l"
 call_abi = "eabihf"
 git-tree-sha1 = "8e8a83359e021f0eae1023d5f86218216c5d4355"
-lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
@@ -314,7 +286,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "i686"
 git-tree-sha1 = "31147771939b8e82061692fe6c522c9d7a831ad0"
-lazy = true
 libc = "glibc"
 mpi = "mpiabi"
 os = "linux"
@@ -325,7 +296,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "i686"
 git-tree-sha1 = "d0f3e7d6143fc1bb6f6e377d9c10e496ea691938"
-lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
@@ -336,7 +306,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "i686"
 git-tree-sha1 = "1c9a9533074b227393f8dba270dc2f266d830dc1"
-lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
@@ -347,7 +316,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "i686"
 git-tree-sha1 = "f2843ee7bd42a971327ca206dd161fc63566b8b0"
-lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
@@ -358,7 +326,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "i686"
 git-tree-sha1 = "e2e6355e8bc0a540b086b9010556d01722853029"
-lazy = true
 libc = "musl"
 mpi = "mpiabi"
 os = "linux"
@@ -369,7 +336,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "i686"
 git-tree-sha1 = "fa0a21ab9b1554b59be17625f5121a228d030a68"
-lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
@@ -380,7 +346,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "i686"
 git-tree-sha1 = "29a98e8a6651ff2d6bea1986c304046aed0af9ac"
-lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
@@ -391,7 +356,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "i686"
 git-tree-sha1 = "374d32bded30b79f231e8e4c7ec21baa251aa95f"
-lazy = true
 mpi = "microsoftmpi"
 os = "windows"
 
@@ -401,7 +365,6 @@ os = "windows"
 [[HelloWorldMPIC]]
 arch = "powerpc64le"
 git-tree-sha1 = "e8e5e511a16d27e8e51b7963ef879db8c42db440"
-lazy = true
 libc = "glibc"
 mpi = "mpiabi"
 os = "linux"
@@ -412,7 +375,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "powerpc64le"
 git-tree-sha1 = "3bcf7adedcc008f1763dc4fa4da9a943af58d681"
-lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
@@ -423,7 +385,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "powerpc64le"
 git-tree-sha1 = "edaa5fc0e082828c6835a211478764300785be17"
-lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
@@ -434,7 +395,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "powerpc64le"
 git-tree-sha1 = "586f1ab4144fe472d358dfb0093bfe831844fa92"
-lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
@@ -445,7 +405,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "riscv64"
 git-tree-sha1 = "55d061157eeb9e7b13a798d77b8d15287340deb5"
-lazy = true
 libc = "glibc"
 mpi = "mpiabi"
 os = "linux"
@@ -456,7 +415,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "riscv64"
 git-tree-sha1 = "18a930ea4657cc09bc8823e99032caf25f6a2970"
-lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
@@ -467,7 +425,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "riscv64"
 git-tree-sha1 = "5390eaf6f7c3b71244242f0e1f7a52f36145e8fa"
-lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
@@ -478,7 +435,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "riscv64"
 git-tree-sha1 = "03a18538a9ee009e1c6a903444818a44aee699cb"
-lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
@@ -489,7 +445,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "x86_64"
 git-tree-sha1 = "152c1ad9e9bce5d85e2dbe05df46347be139ae8c"
-lazy = true
 mpi = "mpiabi"
 os = "macos"
 
@@ -499,7 +454,6 @@ os = "macos"
 [[HelloWorldMPIC]]
 arch = "x86_64"
 git-tree-sha1 = "6ffa4e2a9d0f552163d7f9271a2c50f3846ee2d5"
-lazy = true
 mpi = "mpich"
 os = "macos"
 
@@ -509,7 +463,6 @@ os = "macos"
 [[HelloWorldMPIC]]
 arch = "x86_64"
 git-tree-sha1 = "28090f49c57089c5b4f8e602b0bf1bd0c42cf2fc"
-lazy = true
 mpi = "mpitrampoline"
 os = "macos"
 
@@ -519,7 +472,6 @@ os = "macos"
 [[HelloWorldMPIC]]
 arch = "x86_64"
 git-tree-sha1 = "47ac147bfd89e18a31419625dc800cab8089c051"
-lazy = true
 mpi = "openmpi"
 os = "macos"
 
@@ -529,7 +481,6 @@ os = "macos"
 [[HelloWorldMPIC]]
 arch = "x86_64"
 git-tree-sha1 = "e07e27d4f1509a5d6d10a75b9d38e0bc2498c121"
-lazy = true
 libc = "glibc"
 mpi = "mpiabi"
 os = "linux"
@@ -540,7 +491,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "x86_64"
 git-tree-sha1 = "f2ed51c67e24f2318b45c6dc1a9ce0f1a50606f3"
-lazy = true
 libc = "glibc"
 mpi = "mpich"
 os = "linux"
@@ -551,7 +501,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "x86_64"
 git-tree-sha1 = "c9d0f8e4c5e43242f4d392a909e7a63a230f8e81"
-lazy = true
 libc = "glibc"
 mpi = "mpitrampoline"
 os = "linux"
@@ -562,7 +511,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "x86_64"
 git-tree-sha1 = "8d101e1482df0745b199427b02deea67705e8184"
-lazy = true
 libc = "glibc"
 mpi = "openmpi"
 os = "linux"
@@ -573,7 +521,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "x86_64"
 git-tree-sha1 = "8921bdc2eaa129f710d9f2d621b70692a20b8b28"
-lazy = true
 libc = "musl"
 mpi = "mpiabi"
 os = "linux"
@@ -584,7 +531,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "x86_64"
 git-tree-sha1 = "253038c7dfb3f2b7de47a3b29ed8fb822b2115f5"
-lazy = true
 libc = "musl"
 mpi = "mpich"
 os = "linux"
@@ -595,7 +541,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "x86_64"
 git-tree-sha1 = "3bd1ce3379687457efe3517b327fda41d1fef0ea"
-lazy = true
 libc = "musl"
 mpi = "openmpi"
 os = "linux"
@@ -606,7 +551,6 @@ os = "linux"
 [[HelloWorldMPIC]]
 arch = "x86_64"
 git-tree-sha1 = "525a9d5148dccd6179f6056e3bc210ec1097099f"
-lazy = true
 mpi = "mpiabi"
 os = "freebsd"
 
@@ -616,7 +560,6 @@ os = "freebsd"
 [[HelloWorldMPIC]]
 arch = "x86_64"
 git-tree-sha1 = "b9d68cffd31fe493a25aa057a2eec633502116de"
-lazy = true
 mpi = "mpich"
 os = "freebsd"
 
@@ -626,7 +569,6 @@ os = "freebsd"
 [[HelloWorldMPIC]]
 arch = "x86_64"
 git-tree-sha1 = "dba86834af9e88d8a249dd87278197c34fac57bd"
-lazy = true
 mpi = "mpitrampoline"
 os = "freebsd"
 
@@ -636,7 +578,6 @@ os = "freebsd"
 [[HelloWorldMPIC]]
 arch = "x86_64"
 git-tree-sha1 = "09b492d35543dc551a05d1b4647e99c5dec5f50b"
-lazy = true
 mpi = "openmpi"
 os = "freebsd"
 
@@ -646,7 +587,6 @@ os = "freebsd"
 [[HelloWorldMPIC]]
 arch = "x86_64"
 git-tree-sha1 = "66c53d306c63d708829c034a7964e29b52e4acc2"
-lazy = true
 mpi = "microsoftmpi"
 os = "windows"
 
